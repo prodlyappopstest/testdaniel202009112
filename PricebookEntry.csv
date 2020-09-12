@@ -1,0 +1,13 @@
+"Guid","IsActive","Pricebook2Id","Product2Id","UnitPrice","UseStandardPrice"
+0815adad-0aca-40ab-b635-a337f368967b,true,e049af1e-edaa-47f2-9f1a-f777cb443b71,4fb9f27b-10ee-4d11-b0fd-ceeff7295e89,1250.0,false
+0fc20b17-ccde-461a-a04b-1b60e5ff25dc,true,85fd4335-b6d0-439f-8430-959cb9c079c0,de569981-9261-4b0d-bf02-8c7250b0fa2d,900.0,false
+35ce6ffe-eea5-497e-acb5-6f1a6381c5f9,true,e049af1e-edaa-47f2-9f1a-f777cb443b71,b9268242-e349-4735-bff3-88fe1faeaa75,500.0,false
+6cd69e63-55e8-4efd-a121-732b2adfbe7c,true,e049af1e-edaa-47f2-9f1a-f777cb443b71,9dc12a35-03ee-4e60-a684-82279b94c300,500.0,false
+7aa50a61-97d3-48fb-81be-933af5b05759,true,e049af1e-edaa-47f2-9f1a-f777cb443b71,e16be254-e2e0-4236-8051-153f18058c25,2000.0,false
+8278d142-8def-4076-a431-60d5d2f4e201,true,b4eb02dd-899e-4af8-bc49-89ffda4a5a71,b9d79ff9-e17c-4026-b8a0-64a6f5c9380c,200.0,false
+bf138eed-d593-409f-b2c0-fcb005ff0517,true,e049af1e-edaa-47f2-9f1a-f777cb443b71,de569981-9261-4b0d-bf02-8c7250b0fa2d,0.0,false
+dc2fd410-f6d9-4372-b90f-2053bf844410,true,e049af1e-edaa-47f2-9f1a-f777cb443b71,62d80bba-764d-4f3c-aa12-438e5aa26326,0.0,false
+ef88dd38-afc5-4b60-9724-a14c3a693129,true,85fd4335-b6d0-439f-8430-959cb9c079c0,9dc12a35-03ee-4e60-a684-82279b94c300,500.0,false
+f4b3bec5-7513-4fae-82a4-07738ba3442b,true,e049af1e-edaa-47f2-9f1a-f777cb443b71,904fcbca-02ac-4e33-bf15-bf969689f59a,500.0,false
+f4bf238b-8da3-4a9b-b8a5-17bc1dd08c6b,true,e049af1e-edaa-47f2-9f1a-f777cb443b71,b9d79ff9-e17c-4026-b8a0-64a6f5c9380c,0.0,false
+f987644c-eb87-48bc-8c7c-be6dbb5ce2ad,true,e049af1e-edaa-47f2-9f1a-f777cb443b71,4a139287-6577-4f1c-8e3b-c4c09fdaf2a7,0.0,false
